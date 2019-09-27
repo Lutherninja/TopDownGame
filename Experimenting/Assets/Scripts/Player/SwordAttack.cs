@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class SwordAttack : MonoBehaviour
 {
-     public GameObject SwordSlash;
+     public GameObject Sword;
     void Update()
     {
-        if (Input.GetButtonDown("A"))
+        if (Input.GetButtonDown("E"))
         {
-            SwordSlash.SetActive(true);
+            Sword.SetActive(true);
+           print ("slash");
         }
         else
         {
-           SwordSlash.SetActive(false); 
+           Sword.SetActive(false); 
+        
         }
     }
 }

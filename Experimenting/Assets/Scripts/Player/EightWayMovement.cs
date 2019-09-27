@@ -9,11 +9,11 @@ public class EightWayMovement : MonoBehaviour
     Vector2 input;
     float angle;
     Quaternion targetRotation;
-    Transform cam;
+    //Transform cam;
 
     void Start()
     {
-        cam = Camera.main.transform;
+        //cam = Camera.main.transform;
     }
 
     void Update()
@@ -38,7 +38,7 @@ public class EightWayMovement : MonoBehaviour
     {
         angle = Mathf.Atan2(input.x, input.y);
         angle = Mathf.Rad2Deg * angle;
-        angle += cam.eulerAngles.y;
+        //angle += cam.eulerAngles.y;
     }
 
     void Rotate()

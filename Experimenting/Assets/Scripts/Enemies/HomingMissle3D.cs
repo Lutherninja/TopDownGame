@@ -8,6 +8,8 @@ public class HomingMissle3D : MonoBehaviour {
 	public Rigidbody rocketRigidbody;
 	public float turnR;
 	public float rocketVelocity;
+	public GameObject ExplosionEffect;
+	public float explosionEffectTime = 1;
 
 	private void FixedUpdate()
 	{
@@ -17,6 +19,8 @@ public class HomingMissle3D : MonoBehaviour {
 	}
 	void OnCollisionEnter(Collision collision)
     {
-		
+		GameObject clone = (GameObject) Instantiate (ExplosionEffect, transform.position, Quaternion.identity);
+		Destroy (clone, explosionEffectTime);
+		Destroy(gameObject);
 	}
 }

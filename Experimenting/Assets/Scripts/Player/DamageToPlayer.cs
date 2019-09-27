@@ -10,7 +10,7 @@ public class DamageToPlayer : MonoBehaviour
     {
         if (collision.gameObject.tag.Equals("Player"))
         {
-            GetComponent<PlayerHealth>().health -= AmountOfDamage; 
+            collision.gameObject.GetComponent<PlayerHealth>().health -= AmountOfDamage; 
             print ("damage taken");
         }
     }
