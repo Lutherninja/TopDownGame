@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Londathan\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Experimenting.-767280542.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Londathan\Desktop\MyRepos\TopDownGame\Experimenting" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="RPGTALK" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DemoScript.cs" t="Include" />
+            </e>
+            <e p="Talks" t="Include">
+              <e p="DemoSnippets.txt" t="Include" />
+              <e p="DemosText.txt" t="Include" />
+              <e p="DemoTagsText.txt" t="Include" />
+              <e p="DemoTagsText_PT_BR.txt" t="Include" />
+              <e p="DemoTimeline.txt" t="Include" />
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Node Editor" t="Include">
+                <e p="Node_Editor_Framework-develop" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="Node_Editor" t="Include">
+                      <e p="CanvasInspector.cs" t="Include" />
+                      <e p="NodeEditorWindow.cs" t="Include" />
+                      <e p="NodeInspector.cs" t="Include" />
+                      <e p="RTCanvasCalculatorEditor.cs" t="Include" />
+                      <e p="RTNodeEditorInspector.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Node_Editor" t="Include">
+                    <e p="Default" t="Include">
+                      <e p="Calculation Base" t="Include">
+                        <e p="CalculationCanvasType.cs" t="Include" />
+                        <e p="CanvasCalculator.cs" t="Include" />
+                        <e p="FloatCalculation.cs" t="Include" />
+                      </e>
+                      <e p="IO Formats" t="Include">
+                        <e p="XMLImportExport.cs" t="Include" />
+                      </e>
+                      <e p="Runtime Examples" t="Include">
+                        <e p="RTCanvasCalculator.cs" t="Include" />
+                        <e p="RTNodeEditor.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Framework" t="Include">
+                      <e p="Core" t="Include">
+                        <e p="ConnectionKnob.cs" t="Include" />
+                        <e p="ConnectionPort.cs" t="Include" />
+                        <e p="ConnectionPortManager.cs" t="Include" />
+                        <e p="Node.cs" t="Include" />
+                        <e p="NodeCanvas.cs" t="Include" />
+                        <e p="NodeCanvasTraversal.cs" t="Include" />
+                        <e p="NodeEditorState.cs" t="Include" />
+                        <e p="NodeGroup.cs" t="Include" />
+                        <e p="ValueConnectionKnob.cs" t="Include" />
+                      </e>
+                      <e p="CoreExtensions" t="Include">
+                        <e p="ConnectionPortStyles.cs" t="Include" />
+                        <e p="NodeCanvasTypes.cs" t="Include" />
+                        <e p="NodeTypes.cs" t="Include" />
+                      </e>
+                      <e p="Interface" t="Include">
+                        <e p="NodeEditorCallbackReceiver.cs" t="Include" />
+                        <e p="NodeEditorGUI.cs" t="Include" />
+                        <e p="NodeEditorInputControls.cs" t="Include" />
+                        <e p="NodeEditorInputSystem.cs" t="Include" />
+                        <e p="NodeEditorInterface.cs" t="Include" />
+                      </e>
+                      <e p="NodeEditor.cs" t="Include" />
+                      <e p="SaveSystem" t="Include">
+                        <e p="ImportExportFormat.cs" t="Include" />
+                        <e p="ImportExportManager.cs" t="Include" />
+                        <e p="ImportExportStructure.cs" t="Include" />
+                        <e p="NodeCanvasSceneSave.cs" t="Include" />
+                        <e p="NodeEditorSaveManager.cs" t="Include" />
+                        <e p="NodeEditorUserCache.cs" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Resources" t="Include">
+                      <e p="Shader" t="Include">
+                        <e p="LineShader.shader" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Utilities" t="Include">
+                      <e p="EditorLoadingControl.cs" t="Include" />
+                      <e p="GUI" t="Include">
+                        <e p="GUIScaleUtility.cs" t="Include" />
+                        <e p="OverlayGUI.cs" t="Include" />
+                        <e p="RTEditorGUI.cs" t="Include" />
+                      </e>
+                      <e p="link.xml" t="Include" />
+                      <e p="ReflectionUtility.cs" t="Include" />
+                      <e p="ResourceManager.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="RPGTalk Nodes" t="Include">
+                  <e p="Canvas" t="Include">
+                    <e p="RPGTalkNodeCanvas.cs" t="Include" />
+                  </e>
+                  <e p="Nodes" t="Include">
+                    <e p="RPGTalkChoiceNode.cs" t="Include" />
+                    <e p="RPGTalkNode.cs" t="Include" />
+                    <e p="RPGTalkSaveNode.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="RPGTalkAreaEditor.cs" t="Include" />
+              <e p="RPGTalkConfig.cs" t="Include" />
+              <e p="RPGTalkEditor.cs" t="Include" />
+              <e p="RPGTalkInitialization.cs" t="Include" />
+              <e p="RPGTalkLanguageEditor.cs" t="Include" />
+              <e p="RPGTalkLocalizationEditor.cs" t="Include" />
+              <e p="RPGTalkLocalizationStringEditor.cs" t="Include" />
+              <e p="RPGTalkSkipCutsceneEditor.cs" t="Include" />
+            </e>
+            <e p="Helpers" t="Include">
+              <e p="RPGTalkCharacter.cs" t="Include" />
+              <e p="RPGTalkHelper.cs" t="Include" />
+              <e p="RPGTalkLanguage.cs" t="Include" />
+              <e p="TextWithIcon.cs" t="Include" />
+              <e p="TextWithIconSimpleText.cs" t="Include" />
+              <e p="TMP_Translator.cs" t="Include" />
+            </e>
+            <e p="RPGTalk.cs" t="Include" />
+            <e p="RPGTalkArea.cs" t="Include" />
+            <e p="RPGTalkCinematic" t="Include">
+              <e p="Editor" t="Include">
+                <e p="RPGTalkCinematicDrawer.cs" t="Include" />
+              </e>
+              <e p="RPGTalkCinematicBehaviour.cs" t="Include" />
+              <e p="RPGTalkCinematicClip.cs" t="Include" />
+              <e p="RPGTalkCinematicTrack.cs" t="Include" />
+            </e>
+            <e p="RPGTalkDubSounds.cs" t="Include" />
+            <e p="RPGTalkLocalization.cs" t="Include" />
+            <e p="RPGTalkLocalizationString.cs" t="Include" />
+            <e p="RPGTalkTimeline.cs" t="Include" />
+            <e p="Snippets" t="Include">
+              <e p="RPGTalkCanPassWarning.cs" t="Include" />
+              <e p="RPGTalkFollowCharacter.cs" t="Include" />
+              <e p="RPGTalkSaveInstance.cs" t="Include" />
+              <e p="RPGTalkSimpleAnimation.cs" t="Include" />
+              <e p="RPGTalkSkipCutscene.cs" t="Include" />
+              <e p="RPGTalkSmartPointer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Doors" t="Include">
+            <e p="Door.cs" t="Include" />
+            <e p="SceneController.cs" t="Include" />
+          </e>
+          <e p="Enemies" t="Include">
+            <e p="AutoTurret" t="Include">
+              <e p="Bullet.cs" t="Include" />
+              <e p="Turret.cs" t="Include" />
+            </e>
+            <e p="BlackHole.cs" t="Include" />
+            <e p="HomingMissle3D.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="DamageToPlayer.cs" t="Include" />
+            <e p="Dash.cs" t="Include" />
+            <e p="EightWayMovement.cs" t="Include" />
+            <e p="Jump.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="SwordAttack.cs" t="Include" />
+          </e>
+          <e p="ThrowableObjects" t="Include">
+            <e p="PickUpObject.cs" t="Include" />
+          </e>
+          <e p="Weapons" t="Include">
+            <e p="Boomerang.cs" t="Include" />
+            <e p="BoomerangStart.cs" t="Include" />
+            <e p="Knockback.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Experimenting.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
