@@ -153,6 +153,14 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AutoTurret" t="Include">
+            <e p="BaseProjectile.cs" t="Include" />
+            <e p="BeamProjectile.cs" t="Include" />
+            <e p="NormalProjectile.cs" t="Include" />
+            <e p="Shooting.cs" t="Include" />
+            <e p="TrackingSystem.cs" t="Include" />
+            <e p="TurretAI.cs" t="Include" />
+          </e>
           <e p="Doors" t="Include">
             <e p="Door.cs" t="Include" />
             <e p="SceneController.cs" t="Include" />

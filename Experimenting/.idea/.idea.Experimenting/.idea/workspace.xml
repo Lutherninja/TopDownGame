@@ -16,32 +16,96 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1569466692910" expanded="true" signature="57:1115" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="340:745" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="675:743" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="813:1055" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="856:1050" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="964:1046" ph="{...}" />
-                <marker date="1569466692910" expanded="true" signature="1077:1113" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="340:745" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="675:743" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="813:1055" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="856:1050" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="964:1046" ph="{...}" />
+                <marker date="1572048094040" expanded="true" signature="1077:1113" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PickUpObject.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PickUpObject.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               <folding>
-                <marker date="1570510673285" expanded="false" signature="6:78" ph="..." />
-                <marker date="1570510673285" expanded="true" signature="151:782" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="262:290" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="379:474" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="420:468" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="559:602" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="660:780" ph="{...}" />
-                <marker date="1570510673285" expanded="true" signature="712:774" ph="{...}" />
+                <marker date="1572048094497" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572048094497" expanded="true" signature="151:782" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="262:290" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="379:474" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="420:468" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="559:602" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="660:780" ph="{...}" />
+                <marker date="1572048094497" expanded="true" signature="712:774" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrackingSystem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/TrackingSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <marker date="1572050631843" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572050631843" expanded="true" signature="123:1016" ph="{...}" />
+                <marker date="1572050631843" expanded="true" signature="359:810" ph="{...}" />
+                <marker date="1572050631843" expanded="true" signature="429:610" ph="{...}" />
+                <marker date="1572050631843" expanded="true" signature="663:804" ph="{...}" />
+                <marker date="1572050631843" expanded="true" signature="849:1009" ph="{...}" />
+                <marker date="1572050631843" expanded="true" signature="883:941" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseProjectile.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BaseProjectile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <marker date="1572051244637" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572051244637" expanded="true" signature="132:261" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NormalProjectile.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/NormalProjectile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="24" />
+              <folding>
+                <marker date="1572051531244" expanded="true" signature="6:78" ph="..." />
+                <marker date="1572051531244" expanded="true" signature="126:614" ph="{...}" />
+                <marker date="1572051531244" expanded="true" signature="202:325" ph="{...}" />
+                <marker date="1572051531244" expanded="true" signature="227:319" ph="{...}" />
+                <marker date="1572051531244" expanded="true" signature="418:612" ph="{...}" />
+                <marker date="1572051531244" expanded="true" signature="456:596" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeamProjectile.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BeamProjectile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <marker date="1572051977222" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572051977222" expanded="true" signature="124:720" ph="{...}" />
+                <marker date="1572051977222" expanded="true" signature="256:535" ph="{...}" />
+                <marker date="1572051977222" expanded="true" signature="286:529" ph="{...}" />
+                <marker date="1572051977222" expanded="true" signature="628:718" ph="{...}" />
+                <marker date="1572051977222" expanded="true" signature="656:711" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,7 +117,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/NormalProjectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/TrackingSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BaseProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BeamProjectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -61,10 +129,14 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/ThrowableObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoTurret/TrackingSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoTurret/BaseProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoTurret/NormalProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AutoTurret/BeamProjectile.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="193" />
     <option name="y" value="-17" />
     <option name="width" value="1283" />
@@ -76,6 +148,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
@@ -88,10 +164,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -129,11 +201,12 @@
       <updated>1570145254220</updated>
       <workItem from="1570145273129" duration="1159000" />
       <workItem from="1570507790063" duration="2777000" />
+      <workItem from="1572049720503" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3936000" />
+    <option name="totallyTimeSpent" value="6651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +219,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -155,7 +227,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -180,42 +252,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1569466692910" expanded="true" signature="57:1115" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="340:745" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="675:743" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="813:1055" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="856:1050" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="964:1046" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="1077:1113" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/ThrowableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/ThrowableObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Doors/Door.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1569466692910" expanded="true" signature="57:1115" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="340:745" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="675:743" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="813:1055" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="856:1050" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="964:1046" ph="{...}" />
-            <marker date="1569466692910" expanded="true" signature="1077:1113" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="340:745" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="675:743" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="813:1055" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="856:1050" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="964:1046" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="1077:1113" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -225,14 +267,118 @@
         <state relative-caret-position="527">
           <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           <folding>
-            <marker date="1570510673285" expanded="false" signature="6:78" ph="..." />
-            <marker date="1570510673285" expanded="true" signature="151:782" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="262:290" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="379:474" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="420:468" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="559:602" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="660:780" ph="{...}" />
-            <marker date="1570510673285" expanded="true" signature="712:774" ph="{...}" />
+            <marker date="1572048094497" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572048094497" expanded="true" signature="151:782" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="262:290" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="379:474" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="420:468" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="559:602" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="660:780" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="712:774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Doors/Door.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1572048094040" expanded="true" signature="340:745" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="675:743" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="813:1055" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="856:1050" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="964:1046" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="1077:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/ThrowableObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/ThrowableObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Doors/Door.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1572048094040" expanded="true" signature="340:745" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="675:743" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="813:1055" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="856:1050" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="964:1046" ph="{...}" />
+            <marker date="1572048094040" expanded="true" signature="1077:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowableObjects/PickUpObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <marker date="1572048094497" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572048094497" expanded="true" signature="151:782" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="262:290" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="379:474" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="420:468" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="559:602" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="660:780" ph="{...}" />
+            <marker date="1572048094497" expanded="true" signature="712:774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/TrackingSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1572050631843" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572050631843" expanded="true" signature="123:1016" ph="{...}" />
+            <marker date="1572050631843" expanded="true" signature="359:810" ph="{...}" />
+            <marker date="1572050631843" expanded="true" signature="429:610" ph="{...}" />
+            <marker date="1572050631843" expanded="true" signature="663:804" ph="{...}" />
+            <marker date="1572050631843" expanded="true" signature="849:1009" ph="{...}" />
+            <marker date="1572050631843" expanded="true" signature="883:941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BaseProjectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1572051244637" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572051244637" expanded="true" signature="132:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/NormalProjectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="24" />
+          <folding>
+            <marker date="1572051531244" expanded="true" signature="6:78" ph="..." />
+            <marker date="1572051531244" expanded="true" signature="126:614" ph="{...}" />
+            <marker date="1572051531244" expanded="true" signature="202:325" ph="{...}" />
+            <marker date="1572051531244" expanded="true" signature="227:319" ph="{...}" />
+            <marker date="1572051531244" expanded="true" signature="418:612" ph="{...}" />
+            <marker date="1572051531244" expanded="true" signature="456:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AutoTurret/BeamProjectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1572051977222" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572051977222" expanded="true" signature="124:720" ph="{...}" />
+            <marker date="1572051977222" expanded="true" signature="256:535" ph="{...}" />
+            <marker date="1572051977222" expanded="true" signature="286:529" ph="{...}" />
+            <marker date="1572051977222" expanded="true" signature="628:718" ph="{...}" />
+            <marker date="1572051977222" expanded="true" signature="656:711" ph="{...}" />
           </folding>
         </state>
       </provider>
