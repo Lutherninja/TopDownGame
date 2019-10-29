@@ -227,6 +227,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &66594986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 66594987}
+  m_Layer: 0
+  m_Name: Spawn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &66594987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66594986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.292, z: 0.861}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1900523889}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &128406977
 GameObject:
   m_ObjectHideFlags: 0
@@ -1479,7 +1509,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1056166729
 Transform:
   m_ObjectHideFlags: 0
@@ -2442,6 +2472,7 @@ GameObject:
   - component: {fileID: 1900523887}
   - component: {fileID: 1900523886}
   - component: {fileID: 1900523890}
+  - component: {fileID: 1900523891}
   m_Layer: 0
   m_Name: AutoTurret
   m_TagString: Untagged
@@ -2521,6 +2552,7 @@ Transform:
   m_Children:
   - {fileID: 635415223}
   - {fileID: 1056166729}
+  - {fileID: 66594987}
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2538,6 +2570,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 30
   m_target: {fileID: 1875540367}
+--- !u!114 &1900523891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1900523885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 336f4e99dc3c0aa41b70875e11c1904e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireRate: 0.2
+  fieldOfView: 10
+  damage: 5
+  beam: 0
+  projectile: {fileID: 8288903433931363058, guid: 07ba98a820c1ce84e82a7ead17a5b0f3,
+    type: 3}
+  target: {fileID: 1875540367}
+  projectileSpawns:
+  - {fileID: 66594986}
 --- !u!1 &2022544743
 GameObject:
   m_ObjectHideFlags: 0
