@@ -14,7 +14,7 @@ public class Boomerang : MonoBehaviour
    
     
     
-    void Update () {
+    void FixedUpdate () {
         if (Input.GetButtonUp ("E"))
         {
             direction += transform.forward * Time.deltaTime;

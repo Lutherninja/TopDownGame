@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca3d1df78647c29418857e346177cd45, type: 3}
+  m_Name: YoYo
+  m_EditorClassIdentifier: 
+  ItemName: YoYo
+  ItemDescription: YoYo descriptions
+  sprite: {fileID: 21300000, guid: e79d126e164cdf24c988a84e80c15e55, type: 3}
+  inUse: 0
+  canPowerUp: {fileID: 11400000, guid: cf140c33b73441940b805e10782f3b35, type: 2}
+  InputType: Item
+  YoYoPrefab: {fileID: 4390478730625823737, guid: 7d25adc1a746c1c49b937b304994c442,
+    type: 3}
+  ThrowBoomerang: 3

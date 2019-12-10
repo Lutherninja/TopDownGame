@@ -8,7 +8,7 @@ public class EnemyAttack : MonoBehaviour
     public float MinDist = 5;
     
 
-    void Update()
+    void FixedUpdate()
     {
         transform.LookAt(Player);
 

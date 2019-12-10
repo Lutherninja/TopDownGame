@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\elazaro\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\elazaro\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Experimenting.1404945390.00" t="ExcludeRecursive" />
-    <e p="C:\Users\elazaro\Desktop\Work\School Stuff\Unity\TopDownGame\Experimenting" t="IncludeRecursive">
+    <e p="C:\Users\10802160\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10802160\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Experimenting.1978205247.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10802160\Documents\Repos\Game20192020\TopDownGame\Experimenting" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scripts" t="Include">
-          <e p="DialogueObjects" t="Include">
+        <e p="Organized" t="Include">
+          <e p="Scripts" t="Include">
             <e p="Dialogue_Scripts" t="Include">
               <e p="choice_dialogue.cs" t="Include" />
               <e p="choice_lines.cs" t="Include" />
@@ -17,17 +17,124 @@
               <e p="IfElseEvents.cs" t="Include" />
               <e p="NPCObject.cs" t="Include" />
             </e>
+            <e p="Enemy" t="Include">
+              <e p="Boss" t="Include">
+                <e p="Base" t="Include">
+                  <e p="BossDamage.cs" t="Include" />
+                  <e p="Phase.cs" t="Include" />
+                  <e p="Phase_Debug.cs" t="Include" />
+                  <e p="Phase_Manager.cs" t="Include" />
+                </e>
+                <e p="SlothBoi" t="Include">
+                  <e p="BossPartHealth.cs" t="Include" />
+                  <e p="HealthHolder.cs" t="Include" />
+                  <e p="MothBomb.cs" t="Include" />
+                  <e p="Sloth_Boi_Bombs.cs" t="Include" />
+                  <e p="SlothBoi_Arm_Slap.cs" t="Include" />
+                  <e p="SlothBoi_Arms_And_Bombs.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DamageToPlayer.cs" t="Include" />
+            </e>
+            <e p="Events" t="Include">
+              <e p="InteractEvent.cs" t="Include" />
+              <e p="OnCollisionEvents.cs" t="Include" />
+              <e p="OnTriggerWIthPLayerEvent.cs" t="Include" />
+              <e p="Start_Event.cs" t="Include" />
+              <e p="WaitEvent.cs" t="Include" />
+            </e>
+            <e p="Inventory" t="Include">
+              <e p="Objects" t="Include">
+                <e p="Clothing_Base.cs" t="Include" />
+                <e p="Current_Clothing.cs" t="Include" />
+                <e p="Equipped_Items.cs" t="Include" />
+                <e p="Inventory_List.cs" t="Include" />
+                <e p="Item_Base.cs" t="Include" />
+                <e p="Non_Usable_Amount_Item.cs" t="Include" />
+                <e p="Potion.cs" t="Include" />
+                <e p="Usable_Amount_Item.cs" t="Include" />
+                <e p="Usable_Item_Base.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="AmountUpdate.cs" t="Include" />
+                <e p="Clothing_Inventory.cs" t="Include" />
+                <e p="Inventory_Manager.cs" t="Include" />
+                <e p="QuickSelectToggle.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Misc" t="Include">
+              <e p="CameraController.cs" t="Include" />
+              <e p="GameControl.cs" t="Include" />
+            </e>
+            <e p="NPCMovement" t="Include">
+              <e p="NPC_Movement.cs" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="Bomb_Obj.cs" t="Include" />
+              <e p="Pickup_Obj.cs" t="Include" />
+              <e p="VehicleObject.cs" t="Include" />
+            </e>
+            <e p="PlayerMovement" t="Include">
+              <e p="Dash.cs" t="Include" />
+              <e p="EightWayMovement.cs" t="Include" />
+              <e p="GetIntoVehicle.cs" t="Include" />
+              <e p="Jump.cs" t="Include" />
+              <e p="Player_Pickup.cs" t="Include" />
+              <e p="PlayerHealth.cs" t="Include" />
+              <e p="PlayerMovementManager.cs" t="Include" />
+              <e p="Pushing_Script.cs" t="Include" />
+              <e p="Set_Player_Pos.cs" t="Include" />
+              <e p="SetTransforms.cs" t="Include" />
+              <e p="Weapon_Manager.cs" t="Include" />
+            </e>
+            <e p="Puzzles" t="Include">
+              <e p="PressurePlates" t="Include">
+                <e p="Pushable_Object.cs" t="Include" />
+                <e p="Pushable_Object_holder.cs" t="Include" />
+                <e p="Pushable_Object_Triggers.cs" t="Include" />
+                <e p="PuzzleStringData.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Saving" t="Include">
+              <e p="Initialize_Objects.cs" t="Include" />
+              <e p="ObjectSave.cs" t="Include" />
+              <e p="Player_Object.cs" t="Include" />
+              <e p="SaveScript.cs" t="Include" />
+              <e p="Saving_Object_Base.cs" t="Include" />
+              <e p="Scene_Load.cs" t="Include" />
+              <e p="SceneSaveManager.cs" t="Include" />
+              <e p="SceneSaveObjects.cs" t="Include" />
+              <e p="Scriptable_Object_Saver.cs" t="Include" />
+              <e p="ScriptableObjectHolder.cs" t="Include" />
+            </e>
             <e p="Scriptable_Objects" t="Include">
+              <e p="Bool_List_Object.cs" t="Include" />
               <e p="BoolData.cs" t="Include" />
               <e p="DebugObject.cs" t="Include" />
               <e p="FloatData.cs" t="Include" />
               <e p="FloatInput.cs" t="Include" />
               <e p="FloatInputAxis.cs" t="Include" />
+              <e p="IntData.cs" t="Include" />
               <e p="KeyCodeData.cs" t="Include" />
               <e p="KeyCodeDataKeys.cs" t="Include" />
+              <e p="StringData.cs" t="Include" />
               <e p="UnityKeyCodeObject.cs" t="Include" />
+              <e p="Vector3Data.cs" t="Include" />
+            </e>
+            <e p="Shop" t="Include">
+              <e p="ShopItem.cs" t="Include" />
+            </e>
+            <e p="Weapon" t="Include">
+              <e p="Boomerang_Object.cs" t="Include" />
+              <e p="Knockback.cs" t="Include" />
+              <e p="Shield_Object.cs" t="Include" />
+              <e p="Sword_Object.cs" t="Include" />
+              <e p="Yoyo.cs" t="Include" />
+              <e p="YoYo_Object.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Scripts" t="Include">
           <e p="Doors" t="Include">
             <e p="Door.cs" t="Include" />
             <e p="SceneController.cs" t="Include" />
@@ -58,28 +165,10 @@
                 <e p="EnemyAttack.cs" t="Include" />
               </e>
             </e>
-          </e>
-          <e p="Events" t="Include">
-            <e p="OnTriggerWIthPLayerEvent.cs" t="Include" />
-          </e>
-          <e p="Player" t="Include">
-            <e p="CameraController.cs" t="Include" />
-            <e p="DamageToPlayer.cs" t="Include" />
-            <e p="Dash.cs" t="Include" />
-            <e p="EightWayMovement.cs" t="Include" />
-            <e p="Jump.cs" t="Include" />
-            <e p="MasterPlayerScript.cs" t="Include" />
-            <e p="PlayerHealth.cs" t="Include" />
-            <e p="Shield.cs" t="Include" />
-            <e p="SwordAttack.cs" t="Include" />
+            <e p="Kamakazi.cs" t="Include" />
           </e>
           <e p="Weapons" t="Include">
             <e p="Boomerang.cs" t="Include" />
-            <e p="Knockback.cs" t="Include" />
-            <e p="YoYo" t="Include">
-              <e p="Yoyo.cs" t="Include" />
-              <e p="YoYoStart.cs" t="Include" />
-            </e>
           </e>
         </e>
         <e p="TextMesh Pro" t="Include">

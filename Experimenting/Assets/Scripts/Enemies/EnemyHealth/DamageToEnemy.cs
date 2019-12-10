@@ -23,5 +23,11 @@ void OnTriggerEnter(Collider hit)
             hit.gameObject.GetComponent<EnemyHealth>().curHealth -= Damage; 
             nextHit = Time.time + nextHitTime;
             }
+            
+            else if (hit.gameObject.CompareTag("Boss") && nextHit <= Time.time)
+            {
+                hit.gameObject.GetComponentInParent<HealthHolder>().health.DecreaseAmount(Damage);
+                nextHit = Time.time + nextHitTime;
+            }
         }
 }

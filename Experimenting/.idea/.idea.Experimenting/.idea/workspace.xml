@@ -1,74 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52963a4b-0c4b-4cee-bdaf-4ba05a263637" name="Default Changelist" comment="" />
+    <list default="true" id="52963a4b-0c4b-4cee-bdaf-4ba05a263637" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Experimenting/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Experimenting/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Experimenting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Experimenting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Prefabs/Boss/SlothBoi/BombMoth.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Prefabs/Boss/SlothBoi/BombMoth.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/LeftArmHealth.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/LeftArmHealth.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/RightArmHealth.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/RightArmHealth.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/SlothBoi_Phase02.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/SlothBoi_Phase02.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/SlothBoi_Phase_01.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Resources/Boss/SlothBoi/SlothBoi_Phase_01.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Resources/Inventory/Weapons/Sword.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Resources/Inventory/Weapons/Sword.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/PlayerMovement.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/PlayerMovement.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/Puzzles.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/Puzzles.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/SlothBoi.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scenes/Examples/SlothBoi.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/Base/Phase_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/Base/Phase_Manager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/MothBomb.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/MothBomb.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arm_Slap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arm_Slap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arms_And_Bombs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arms_And_Bombs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Bomb_Obj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Bomb_Obj.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Pickup_Obj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Pickup_Obj.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/GetIntoVehicle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/GetIntoVehicle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/PlayerMovementManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/PlayerMovementManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Player_Pickup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Player_Pickup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Weapon_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Weapon_Manager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Scriptable_Objects/IntData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Scriptable_Objects/IntData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Organized/Scripts/Weapon/Sword_Object.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Organized/Scripts/Weapon/Sword_Object.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/DamageToEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/DamageToEnemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Updated_Player_Health</find>
+      <find>get</find>
+      <find>set</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/Knockback.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Mage/MageEnemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/SwordAttack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/Boomerang.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/YoYoStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/EightWayMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/DamageToPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Dash.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Shield.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/YoYo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/DamageToEnemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Mage/HomingMissle3D.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/PatrollingEnemy/EnemyPatroll.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/AutoTurret/Turret.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/EnemyAttack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/BasicEnemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/EnemyPatroll.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/PatrollingEnemy/EnemyPatroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/DamageToEnemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/PatrollingEnemy/TriggerPatroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/PlayerMovementManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EnemyPatroll.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Doors/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/BlackHole/BlackHole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/AutoTurret/Turret.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/Boomerang.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Mage/HomingMissle3D.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EnemyPatroll.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/PatrollingEnemy/TriggerPatroll.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/BlackHole.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/EnemyHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/StaticEnemyMov.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/EnemyAttack.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dash.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/DamageToPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/AutoTurret/Bullet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Static Enemy/BasicEnemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Knockback.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/Inventory/Scripts/Weapon/Shield_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Scripts/MonobehaviourObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Scripts/WalkRun_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Scripts/Jump_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Scripts/MovementScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Jump.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/EightWayMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/SwordAttack.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/PatrollingEnemy/EnemyPatroll.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Mage/MageEnemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/Boomerang.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/BoomerangStart.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/BoomRNG.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/YoYoStart.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/YoYo/YoYo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyUnits/Mage/HomingMissle3D.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Shield.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Boomerang.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dash.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/Inventory/Scripts/Weapon/Weapon_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Scripts/PlayerMovementManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/Inventory/Scripts/Inventory/QuickSelectToggle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/DamageToPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PickUpObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/PlayerManager/Player_Pickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/BombPickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/PlayerMovement/Player_Pickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/Objects/Pickup_Obj.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/Objects/Bomb_Obj.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/PlayerMovement/Dash.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/PlayerMovement/Weapon_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/UsedScripts/PlayerMovement/PlayerMovementManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/Inventory/Scripts/Items/Usable_Item_Base.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GetInVehicle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/VehicleObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/EightWayMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Dash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GetIntoVehicle.cs" />
+        <option value="$PROJECT_DIR$/Assets/SkyeStuff/Puzzles/Scripts/Pushing_Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Saving/Player_Skills_List.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Scriptable_Objects/BoolData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/Base/BossDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/ArmDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Scriptable_Objects/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/BossPartHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/HealthHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemies/EnemyHealth/DamageToEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/Base/Phase_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Pickup_Obj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/MothBomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/Sloth_Boi_Bombs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arms_And_Bombs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Inventory/Objects/Usable_Item_Base.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Weapon/Sword_Object.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Enemy/Boss/SlothBoi/SlothBoi_Arm_Slap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/Objects/Bomb_Obj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/GetIntoVehicle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Weapon_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Player_Pickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/PlayerMovementManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Organized/Scripts/PlayerMovement/Jump.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1RkgI4UCLcT7rXqBzxE9KuC1OdD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -84,6 +141,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,12 +183,31 @@
       <workItem from="1570660702337" duration="1075000" />
       <workItem from="1570809683102" duration="17429000" />
       <workItem from="1571065104370" duration="8032000" />
+      <workItem from="1572315036528" duration="305000" />
+      <workItem from="1572372088159" duration="2344000" />
+      <workItem from="1572642804417" duration="13358000" />
+      <workItem from="1572712550252" duration="10825000" />
+      <workItem from="1572824709021" duration="10639000" />
+      <workItem from="1573181627812" duration="9128000" />
+      <workItem from="1573237516686" duration="17949000" />
+      <workItem from="1573620945380" duration="1114000" />
+      <workItem from="1573846944035" duration="18459000" />
+      <workItem from="1574311587079" duration="593000" />
+      <workItem from="1574354426286" duration="6419000" />
+      <workItem from="1574365270956" duration="1307000" />
+      <workItem from="1574443489332" duration="4308000" />
+      <workItem from="1574464858211" duration="19092000" />
+      <workItem from="1574527273866" duration="9613000" />
+      <workItem from="1574707675008" duration="2815000" />
+      <workItem from="1575400112708" duration="1272000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -125,9 +221,6 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -135,6 +228,11 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/SkyeStuff/Puzzles/Scripts/Pushing_Script.cs</url>
+          <line>59</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/SkyeStuff/Puzzles/Scripts/Pushing_Script.cs" initialLine="52" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba9b15fe07b26b46b9edc2c48b8b962, type: 3}
+  m_Name: L_Arm_health
+  m_EditorClassIdentifier: 
+  value: 10
+  maxVal: 50
+  minVal: 0
+  FullHealth: {fileID: 11400000, guid: cb97b8fb64712594e9eb4fe7f7e3ca7c, type: 2}

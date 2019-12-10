@@ -6,7 +6,7 @@ public class EnemyHealth : MonoBehaviour
   public int maxHealth = 2;
   public int curHealth = 2;
 
-  void Update()
+  void FixedUpdate()
   {
   AddjustCurrentHealth(0);
   }

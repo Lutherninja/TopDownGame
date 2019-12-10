@@ -9,6 +9,13 @@ TagManager:
   - BoomerangOrigin
   - Ground
   - Shield
+  - Pushable
+  - PushableTrigger
+  - Pickup
+  - Vehicle
+  - Boss
+  - ItemContainer
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -18,7 +25,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - BombMoth
   - 
   - 
   - 

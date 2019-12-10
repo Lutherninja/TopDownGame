@@ -73,7 +73,7 @@ public class EnemyPatroll : MonoBehaviour
         }
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (attacking == true)
         {

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e2152fa98615a4f9b0b9455ef57edb, type: 3}
+  m_Name: Buy_Health_Potion
+  m_EditorClassIdentifier: 
+  name: Shop Keeper
+  lines:
+  - I see that you are eyeing the Health Potion. It's a really good product and I'm
+    willing to sell it to you for a mere 100 coins.
+  - Would you like to buy it?
+  - '*'

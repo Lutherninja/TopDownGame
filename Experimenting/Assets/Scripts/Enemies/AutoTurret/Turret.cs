@@ -24,7 +24,7 @@ public class Turret : MonoBehaviour {
 	target = GameObject.FindWithTag("Player");
 	}
 	
-	void Update () 
+	void FixedUpdate () 
 	{
 	//transform.right = target.position - transform.position;	......works great for 2D
 	//transform.LookAt(target); //.....works great for 3D
